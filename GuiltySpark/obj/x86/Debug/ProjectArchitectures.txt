@@ -1,0 +1,1 @@
+C:\Temp\GuiltySpark\GuiltySpark\GuiltySpark.csproj;x86
